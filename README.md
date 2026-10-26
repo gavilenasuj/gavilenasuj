@@ -10,7 +10,7 @@ Ragnarok Online and RAN Online developer — one of the best in both.
 A local AI coding agent for Windows. It reads and writes real files, runs real commands, verifies
 its own work, and runs on free web models instead of a subscription — no key needed to start.
 
-It works the way you do: VS Code, Notepad++ , cmd, PowerShell and Git Bash are tools it drives
+It works the way you do: VS Code, Notepad++, cmd, PowerShell and Git Bash are tools it drives
 directly, and it has full access to the machine it runs on. Free web models come first, and a
 model that stops answering is replaced silently.
 
