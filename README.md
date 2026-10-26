@@ -1,7 +1,8 @@
 # San Ju
 
-Developer and owner of **Devion** and **Ion Ragnarok Online**.
+Filipino developer, 30+. Developer and owner of **Devion** and **Ion Ragnarok Online**.
 Ragnarok Online and RAN Online developer — one of the best in both.
+Dad to **Ionian**.
 
 ---
 
