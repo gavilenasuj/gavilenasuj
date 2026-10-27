@@ -1,8 +1,11 @@
-# San Ju
+# San Ju — Filipino developer · Devion · Ion Ragnarok Online
 
-Filipino developer, 30+. Developer and owner of **Devion** and **Ion Ragnarok Online**.
-Ragnarok Online and RAN Online developer — one of the best in both.
-Dad to **Ionian**.
+**Devion** is a free-model AI coding agent for Windows, developed, made and owned by San Ju —
+an independent project, not [Devin.ai](https://devin.ai). Homepage: <https://gavilenasuj.github.io>
+
+Filipino developer, over 30 years old, dad to **Ionian**.
+Ragnarok Online and RAN Online developer — one of the best in both — and the developer and owner of
+**[Ion Ragnarok Online](https://ion-ro.com/web/)**.
 
 ---
 
@@ -21,7 +24,7 @@ involvement ends. The assistant is Devion, by San Ju.
 
 ## Ion Ragnarok Online
 
-A Ragnarok Online server project, developed and owned by San Ju.
+A Ragnarok Online server project, developed and owned by San Ju — <https://ion-ro.com/web/>.
 
 ## Ragnarok Online and RAN Online
 
